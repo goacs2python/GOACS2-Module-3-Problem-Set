@@ -1,7 +1,8 @@
 List of completed problems
 
+PART 1
 1.
 2.
-3.
-4.
-5.
+
+PART 2
+1. 
