@@ -1,6 +1,6 @@
-# Module 2 Part 2 Problems
+# Module 3 Problems
 
-Please choose 5 of the problems from our assignment page to complete.
+Please complete 2 problems from Part 1 of the Module 3 Problem Set, and 1 problem from Part 2.
 
 ---
 
